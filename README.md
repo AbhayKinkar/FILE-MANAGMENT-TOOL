@@ -27,3 +27,7 @@ The appendFile function allows the user to add new content to the end of an exis
 The main() function is the entry point of the program and handles user interaction. It begins by displaying a simple menu with three choices, each corresponding to a file operation. The user is prompted to enter a number between 1 and 3 and then provide the name of the file, including the .txt extension. Depending on the user's choice, the program uses a switch statement to call the appropriate function. If the input does not match any valid option, an error message is displayed.
 
 In conclusion, this File Management Tool is a well-structured and beginner-friendly program that introduces the concept of file handling in C++. It effectively demonstrates how to open, write to, read from, and append to text files. The use of ifstream, ofstream, and appropriate file modes makes the program robust and functional. Through clear structure and user interaction, the program offers a practical way for learners to understand essential file operations in C++.
+
+OUTPUT
+
+![Image](https://github.com/user-attachments/assets/9f218ea2-19ba-49f1-b9a4-6f674f70eb05)
